@@ -1,0 +1,4 @@
+$ irssi
+/connect <server>
+/nick <nick>
+/join #<channel>
